@@ -10,7 +10,7 @@ We are given with the users past data and transactions (when they logged into G-
 Aim is to build a predictive model using G-store data set to predict the total revenue per customer that helps in better use of marketing budget.
 
 ### About features/columns/independent variables - 
-fullVisitorId, 
+- fullVisitorId, TransectionRevenue.
 
 ### Performance metric for the problem - 
 RMSE is defined as:
