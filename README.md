@@ -5,3 +5,6 @@ In every business it was proven about 80–20 rule, this rule tells us 80% of ou
 
 ### About Data - 
 In simple words we are given with the users past data and transactions (when they logged into G-store), so by using this data we need to predict the future revenue will be created by those customers.
+
+### Aim - 
+Aim is to build a predictive model using G-store data set to predict the total revenue per customer that helps in better use of marketing budget 
